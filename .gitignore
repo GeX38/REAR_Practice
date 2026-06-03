@@ -1,0 +1,15 @@
+.venv/
+data/
+models/
+REAR/
+results/
+
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+*.log
+
+.DS_Store
+Thumbs.db
